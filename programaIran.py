@@ -51,7 +51,7 @@ Também não é possível utilizar nomes de funções já definidas no próprio 
 #Tipos de dados em python
 #Numéricos
 c = 3 #Define-se uma variável global "c"
-print(type(c)) #Retorna na tela a execução da função "type" com a função "c" como argumento, devendo resultar no tipo "int".
+print(type(c)) #Retorna na tela a execução da função "type" com a variável "c" como argumento, devendo resultar no tipo "int".
 d = 3.5 #Define-se a variável global "d" contendo um valor com ponto flutuante (floating point).
 print(d) #Retorna o valor de "d" na tela.
 print(type(d)) #Retorna na tela tipo da variável "d", que deve ser "float"
