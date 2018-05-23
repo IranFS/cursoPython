@@ -19,7 +19,7 @@ print(os.listdir('.'))
 #=====================================================
 # Operações matemáticas
 
-print ( 5 - 3)
+print ( 5 - 3) #
 print ( 4*3)
 print ( 3/2)
 print ( 5-4/2 )
